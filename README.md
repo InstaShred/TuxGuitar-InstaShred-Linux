@@ -16,7 +16,7 @@ Download and install the appropriate Linux release from the [Source Forge projec
 
 Navigate to the [releases page](https://github.com/InstaShred/TuxGuitar-InstaShred-Linux/releases/tag/initial_release) and download tuxguitar-instashred--SNAPSHOT-jar-with-dependencies.jar file. Save this file in the /share/plugins directory of your TuxGuitar installation. If you are having trouble finding this directory, right click your TuxGuitar shortcut and select "Open file location".
 
-Run TuxGuitar.exe, and the Bluetooth search window (Discovered Devices) should open automatically. If not go to "Tools > Plugins" and make sure the "InstaShred" plugin is enabled. Once the Bluetooth search window appears, select your InstaShred guitar before pressing "Connect". After a successful connection, the connected lightshow will display on your guitar and the Bluetooth search window will close. 
+Run .\TuxGuitar, and the Bluetooth search window (Discovered Devices) should open automatically. If not go to "Tools > Plugins" and make sure the "InstaShred" plugin is enabled. Once the Bluetooth search window appears, select your InstaShred guitar before pressing "Connect". After a successful connection, the connected lightshow will display on your guitar and the Bluetooth search window will close. 
 
 You are now ready to use TuxGuitar with your InstaShred guitar!
 
